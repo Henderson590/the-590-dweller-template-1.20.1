@@ -1,0 +1,12 @@
+{
+  "item.the-590-dweller.cassette_tape_one": "Cassette Tape One",
+  "item.the-590-dweller.cassette_tape_one.desc": "Phase One",
+  "item.the-590-dweller.glob_of_infection": "Glob of Infection",
+  "item.the-590-dweller.infected_steak": "Infected Steak",
+
+  "block.the-590-dweller.infection_block": "Block of Infection",
+
+  "effect.the-590-dweller.infected": "Infected",
+
+  "itemgroup.infected": "Infected 590 Dweller"
+}

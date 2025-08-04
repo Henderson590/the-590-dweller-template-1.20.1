@@ -1,0 +1,10 @@
+{
+  "cassette_tape_one": {
+    "sounds": [
+      {
+        "name": "the-590-dweller:cassette_tape_one",
+        "stream": true
+      }
+    ]
+  }
+}

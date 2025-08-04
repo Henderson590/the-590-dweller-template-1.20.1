@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the-590-dweller:item/cassette_tape_one"
+  }
+}
