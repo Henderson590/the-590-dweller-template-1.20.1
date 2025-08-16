@@ -4,11 +4,13 @@ import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricDefaultAttributeRegistry;
 import net.henderson.dweller.block.ModBlocks;
+import net.henderson.dweller.block.entity.ModBlocksEntities;
 import net.henderson.dweller.effect.InfectedEffect;
 import net.henderson.dweller.entity.ModEntities;
 import net.henderson.dweller.entity.custom.DwellerEntity;
 import net.henderson.dweller.item.ModItemGroups;
 import net.henderson.dweller.item.ModItems;
+import net.henderson.dweller.screen.ModScreenHandlers;
 import net.henderson.dweller.sounds.ModSounds;
 import net.henderson.dweller.util.ModLootTableModifiers;
 import net.minecraft.entity.effect.StatusEffect;
@@ -35,6 +37,10 @@ public class The590dweller implements ModInitializer {
 
 		ModLootTableModifiers.modifyLootTables();
 		ModSounds.registerSounds();
+
+		ModBlocksEntities.registerBlockEntities();
+		ModScreenHandlers.registerScreenHandlers();
+
 
 
 		FabricDefaultAttributeRegistry.register(ModEntities.DWELLER, DwellerEntity.setAttributes());

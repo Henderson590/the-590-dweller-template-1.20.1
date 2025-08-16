@@ -4,7 +4,23 @@
   "item.the-590-dweller.glob_of_infection": "Glob of Infection",
   "item.the-590-dweller.infected_steak": "Infected Steak",
 
+
   "block.the-590-dweller.infection_block": "Block of Infection",
+
+  "block.the-590-dweller.infected_stairs": "Infected Stairs",
+  "block.the-590-dweller.infected_slab": "Infected Slab",
+
+  "block.the-590-dweller.infected_button": "Infected Button",
+  "block.the-590-dweller.infected_pressure_plate": "Infected Pressure Plate",
+
+  "block.the-590-dweller.infected_fence": "Infected Fence",
+  "block.the-590-dweller.infected_fence_gate": "Infected Fence Gate",
+
+  "block.the-590-dweller.infected_wall": "Infected Wall",
+  "block.the-590-dweller.infected_door": "Infected Door",
+  "block.the-590-dweller.infected_trapdoor": "Infected Trapdoor",
+
+  "block.the-590-dweller.liquidizer_machine": "Liquidizing Table",
 
   "effect.the-590-dweller.infected": "Infected",
 
